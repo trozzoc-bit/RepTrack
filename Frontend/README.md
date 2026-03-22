@@ -1,3 +1,0 @@
-# Fit Tracker
-
-//TODO
